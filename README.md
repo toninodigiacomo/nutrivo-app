@@ -17,7 +17,7 @@
 
 - **[📖 Guide d'utilisation (wiki)](https://github.com/toninodigiacomo/nutrivo-app/wiki)** - comment créer un compte, enregistrer un repas, suivre son poids, utiliser les fonctionnalités Premium (recettes, estimation par photo, synchronisation Garmin/Strava)...
 - **[❓ FAQ](https://nutrivo.vektoriel.com/app/visiteur/faq.html)** - réponses courtes aux questions les plus fréquentes, directement dans l'application. Le wiki reste la référence pour le détail de chaque fonctionnalité.
-- **[📱 Installer Nutrivo sur ton téléphone](ttps://github.com/toninodigiacomo/nutrivo-app/wiki/Installer-Nutrivo-comme-une-application)** - comme une vraie application, sans passer par un store.
+- **[📱 Installer Nutrivo sur ton téléphone](https://github.com/toninodigiacomo/nutrivo-app/wiki/Installer-Nutrivo-comme-une-application)** - comme une vraie application, sans passer par un store.
 
 ## Ce dépôt
 
