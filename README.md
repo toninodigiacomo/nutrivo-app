@@ -12,7 +12,6 @@
 
 |---|---|
 | ![Accueil](docs/screenshots/accueil.png) | ![Journal de repas](docs/screenshots/journal.png) |
-| ![Suivi du poids](docs/screenshots/poids.png) | ![Vue mobile](docs/screenshots/mobile.png) |
 
 ## Utiliser Nutrivo
 
